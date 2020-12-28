@@ -1,8 +1,6 @@
 # BCI_MI_wavelet_CNN
 基于小波变换和卷积神经网络的脑电运动成像信号分类
 
-（这个主要是为了了解EEG MI信号的处理流程代码，新手第一次上手跑。结果好像不太行，但是结果不重要）
-
 ## 链接
  [原文github地址](https://github.com/dalinzhangzdl/BCI_MI_Wavelet_CNN)
  
